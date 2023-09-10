@@ -1,3 +1,3 @@
 Assignment 03
 Link:
-https://hienlethithanh.github.io/CV.github.io/)https://hienlethithanh.github.io/CV.github.io/
+https: https://hienlethithanh.github.io/CV.github.io/
